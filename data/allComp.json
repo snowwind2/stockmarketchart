@@ -1,0 +1,705 @@
+{
+    "companies": [
+        {
+            "id": "com_NX6GzO",
+            "ticker": "AAPL",
+            "name": "Apple Inc",
+            "lei": "HWUPKR0MPOU8FGXBT394",
+            "cik": "0000320193"
+        },
+        {
+            "id": "com_2zvNzA",
+            "ticker": "XOM",
+            "name": "Exxon Mobil Corp",
+            "lei": "J3WHBG0MTS7O8ZVMDC91",
+            "cik": "0000034088"
+        },
+        {
+            "id": "com_0XLDXx",
+            "ticker": "ORCL",
+            "name": "Oracle Corp",
+            "lei": "1Z4GXXU7ZHVWFCD8TV52",
+            "cik": "0001341439"
+        },
+        {
+            "id": "com_VXWJgv",
+            "ticker": "KO",
+            "name": "Coca-Cola Co",
+            "lei": "UWJKFUJFZ02DKWI3RY53",
+            "cik": "0000021344"
+        },
+        {
+            "id": "com_NgYGzd",
+            "ticker": "INTC",
+            "name": "Intel Corp",
+            "lei": "KNX4USFCNGPY45LOCE31",
+            "cik": "0000050863"
+        },
+        {
+            "id": "com_NgPvzd",
+            "ticker": "WMT",
+            "name": "Walmart Inc",
+            "lei": "Y87794H0US1R65VBXU25",
+            "cik": "0000104169"
+        },
+        {
+            "id": "com_qzEByJ",
+            "ticker": "MSFT",
+            "name": "Microsoft Corp",
+            "lei": "INR2EJN1ERAN0W5ZP974",
+            "cik": "0000789019"
+        },
+        {
+            "id": "com_dXOKXo",
+            "ticker": "IBM",
+            "name": "International Business Machines Corp",
+            "lei": "VGRQXHF3J8VDLUA7XE92",
+            "cik": "0000051143"
+        },
+        {
+            "id": "com_DzonXe",
+            "ticker": "CVX",
+            "name": "Chevron Corp",
+            "lei": null,
+            "cik": "0000093410"
+        },
+        {
+            "id": "com_nzJNzB",
+            "ticker": "JNJ",
+            "name": "Johnson \u0026 Johnson",
+            "lei": "549300G0CFPGEF6X2043",
+            "cik": "0000200406"
+        },
+        {
+            "id": "com_bzqpXx",
+            "ticker": "DIS",
+            "name": "Walt Disney Co, The",
+            "lei": "7260JQNI6SCF9FIV2392",
+            "cik": "0001744489"
+        },
+        {
+            "id": "com_AXGAyM",
+            "ticker": "PEP",
+            "name": "PepsiCo Inc",
+            "lei": "FJSUNZKFNQ5YPJ5OT455",
+            "cik": "0000077476"
+        },
+        {
+            "id": "com_PypZX3",
+            "ticker": "PG",
+            "name": "Procter \u0026 Gamble Co",
+            "lei": "2572IBTT8CCZW6AU4141",
+            "cik": "0000080424"
+        },
+        {
+            "id": "com_xgxWyr",
+            "ticker": "PFE",
+            "name": "Pfizer Inc",
+            "lei": "765LHXWGK1KXCLTFYQ30",
+            "cik": "0000078003"
+        },
+        {
+            "id": "com_BgkOge",
+            "ticker": "UPS",
+            "name": "United Parcel Service Inc",
+            "lei": "D01LMJZU09ULLNCY6Z23",
+            "cik": "0001090727"
+        },
+        {
+            "id": "com_agjrgj",
+            "ticker": "VZ",
+            "name": "Verizon Communications Inc",
+            "lei": "2S72QS2UO2OESLG6Y829",
+            "cik": "0000732712"
+        },
+        {
+            "id": "com_wy3Dg8",
+            "ticker": "BA",
+            "name": "Boeing Co",
+            "lei": "RVHJWBXLJ1RFUBSY1F30",
+            "cik": "0000012927"
+        },
+        {
+            "id": "com_jyRlXM",
+            "ticker": "FB",
+            "name": "Facebook Inc",
+            "lei": "BQ4BKCS1HXDV9HN80Z93",
+            "cik": "0001326801"
+        },
+        {
+            "id": "com_0gNqyJ",
+            "ticker": "T",
+            "name": "AT\u0026T Inc",
+            "lei": "549300Z40J86GGSTL398",
+            "cik": "0000732717"
+        },
+        {
+            "id": "com_5ydJXK",
+            "ticker": "AMGN",
+            "name": "Amgen Inc",
+            "lei": "62QBXGPJ34PQ72Z12S66",
+            "cik": "0000318154"
+        },
+        {
+            "id": "com_ByKvzb",
+            "ticker": "MRK",
+            "name": "Merck \u0026 Co Inc",
+            "lei": null,
+            "cik": "0000310158"
+        },
+        {
+            "id": "com_mgwYzQ",
+            "ticker": "AMZN",
+            "name": "Amazon.com Inc",
+            "lei": "ZXTILKJKG63JELOEG630",
+            "cik": "0001018724"
+        },
+        {
+            "id": "com_Qz8bgb",
+            "ticker": "SLB",
+            "name": "Schlumberger NV",
+            "lei": null,
+            "cik": "0000087347"
+        },
+        {
+            "id": "com_bXZPyM",
+            "ticker": "GILD",
+            "name": "Gilead Sciences Inc",
+            "lei": "549300WTZWR07K8MNV44",
+            "cik": "0000882095"
+        },
+        {
+            "id": "com_9Xa6zB",
+            "ticker": "CMCSA",
+            "name": "Comcast Corp",
+            "lei": null,
+            "cik": "0001166691"
+        },
+        {
+            "id": "com_RzmAze",
+            "ticker": "PM",
+            "name": "Philip Morris International Inc",
+            "lei": "HL3H1H2BGXWVG3BSWR90",
+            "cik": "0001413329"
+        },
+        {
+            "id": "com_2gB0zb",
+            "ticker": "CSCO",
+            "name": "Cisco Systems Inc",
+            "lei": "8E6NF1YAL0WT6CWXXV93",
+            "cik": "0000858877"
+        },
+        {
+            "id": "com_NXnVXV",
+            "ticker": "QCOM",
+            "name": "Qualcomm Inc",
+            "lei": "H1J8DDZKZP6H7RWC0H53",
+            "cik": "0000804328"
+        },
+        {
+            "id": "com_Eg46z4",
+            "ticker": "HD",
+            "name": "Home Depot Inc",
+            "lei": "QEKMOTMBBKA8I816DO57",
+            "cik": "0000354950"
+        },
+        {
+            "id": "com_2z9lXV",
+            "ticker": "COP",
+            "name": "ConocoPhillips",
+            "lei": "WPTL2Z3FIYTHSP5V2253",
+            "cik": "0001163165"
+        },
+        {
+            "id": "com_Dg2ey6",
+            "ticker": "MCD",
+            "name": "McDonald's Corp",
+            "lei": "UE2136O97NLB5BYP9H04",
+            "cik": "0000063908"
+        },
+        {
+            "id": "com_EgA5gQ",
+            "ticker": "MMM",
+            "name": "3M Co",
+            "lei": "LUZQVYP4VS22CLWDAR65",
+            "cik": "0000066740"
+        },
+        {
+            "id": "com_ogD5XN",
+            "ticker": "CVS",
+            "name": "CVS Health Corp",
+            "lei": "549300EJG376EN5NQE29",
+            "cik": "0000064803"
+        },
+        {
+            "id": "com_ozMdXL",
+            "ticker": "UNP",
+            "name": "Union Pacific Corp",
+            "lei": "549300LMMRSZZCZ8CL11",
+            "cik": "0000100885"
+        },
+        {
+            "id": "com_5X7Ng0",
+            "ticker": "ABBV",
+            "name": "AbbVie Inc",
+            "lei": "FR5LCKFTG8054YNNRU85",
+            "cik": "0001551152"
+        },
+        {
+            "id": "com_qgeNXo",
+            "ticker": "MO",
+            "name": "Altria Group Inc",
+            "lei": "XSGZFLO9YTNO9VCQV219",
+            "cik": "0000764180"
+        },
+        {
+            "id": "com_4zr6zB",
+            "ticker": "BMY",
+            "name": "Bristol-Myers Squibb Co",
+            "lei": "HLYYNH7UQUORYSJQCN42",
+            "cik": "0000014272"
+        },
+        {
+            "id": "com_0yb7gR",
+            "ticker": "DHR",
+            "name": "Danaher Corp",
+            "lei": "S4BKK9OTCEWQ3YHPFM11",
+            "cik": "0000313616"
+        },
+        {
+            "id": "com_Wy1PzB",
+            "ticker": "FOXA",
+            "name": "Twenty-First Century Fox Inc",
+            "lei": "5493006FBVCBN6H1JG79",
+            "cik": "0001308161"
+        },
+        {
+            "id": "com_xgQ9gb",
+            "ticker": "OXY",
+            "name": "Occidental Petroleum Corp",
+            "lei": "IM7X0T3ECJW4C1T7ON55",
+            "cik": "0000797468"
+        },
+        {
+            "id": "com_rg0mXJ",
+            "ticker": "DTV",
+            "name": "DTE Energy Co",
+            "lei": null,
+            "cik": "0001465112"
+        },
+        {
+            "id": "com_Kz5Nyr",
+            "ticker": "ETN",
+            "name": "Eaton Corporation PLC",
+            "lei": "549300VDIGTMXUNT7H71",
+            "cik": "0001551182"
+        },
+        {
+            "id": "com_pgVb6g",
+            "ticker": "CHK",
+            "name": "Chesapeake Energy Corp",
+            "lei": "X2MT1W32SPAZ9WSKLE78",
+            "cik": "0000895126"
+        },
+        {
+            "id": "com_NX6GGz",
+            "ticker": "ATVI",
+            "name": "Activision Blizzard Inc",
+            "lei": "549300TPQQDBP9GNOF40",
+            "cik": "0000718877"
+        },
+        {
+            "id": "com_2zvxNg",
+            "ticker": "SWKS",
+            "name": "Skyworks Solutions Inc",
+            "lei": "549300WZ3ORQ2BVKBD96",
+            "cik": "0000004127"
+        },
+        {
+            "id": "com_0XLJDy",
+            "ticker": "AES",
+            "name": "AES Corp",
+            "lei": "2NUNNB7D43COUIRE5295",
+            "cik": "0000874761"
+        },
+        {
+            "id": "com_VXWOJX",
+            "ticker": "NWSA",
+            "name": "News Corp",
+            "lei": "549300ITS31QK8VRBQ14",
+            "cik": "0001564708"
+        },
+        {
+            "id": "com_NgYnGX",
+            "ticker": "CSL",
+            "name": "Carlisle Companies Inc",
+            "lei": "XR64VGX1ZPX6G7ZN7Z11",
+            "cik": "0000790051"
+        },
+        {
+            "id": "com_NgPQvX",
+            "ticker": "BWLD",
+            "name": "Buffalo Wild Wings Inc",
+            "lei": null,
+            "cik": "0001062449"
+        },
+        {
+            "id": "com_qzEbBy",
+            "ticker": "GE",
+            "name": "General Electric Co",
+            "lei": "3C7474T6CDKPR9K6YT90",
+            "cik": "0000040545"
+        },
+        {
+            "id": "com_dXOrKg",
+            "ticker": "UTX",
+            "name": "United Technologies Corp",
+            "lei": "I07WOS4YJ0N7YRFE7309",
+            "cik": "0000101829"
+        },
+        {
+            "id": "com_nzJbNz",
+            "ticker": "CELG",
+            "name": "Celgene Corp",
+            "lei": "4SIHMF0MOSTTL8CD0X64",
+            "cik": "0000816284"
+        },
+        {
+            "id": "com_bzqRpy",
+            "ticker": "NKE",
+            "name": "Nike Inc",
+            "lei": "787RXPR0UX0O0XUXPZ81",
+            "cik": "0000320187"
+        },
+        {
+            "id": "com_AXGrAg",
+            "ticker": "HON",
+            "name": "Honeywell International Inc",
+            "lei": "ISRPG12PN4EIEOEMW547",
+            "cik": "0000773840"
+        },
+        {
+            "id": "com_PypRZX",
+            "ticker": "BIIB",
+            "name": "Biogen Inc",
+            "lei": "W8J5WZB5IY3K0NDQT671",
+            "cik": "0000875045"
+        },
+        {
+            "id": "com_xgxYWX",
+            "ticker": "LLY",
+            "name": "Eli Lilly and Co",
+            "lei": "FRDRIPF3EKNDJ2CQJL29",
+            "cik": "0000059478"
+        },
+        {
+            "id": "com_BgkpOX",
+            "ticker": "EPD",
+            "name": "Enterprise Products Partners LP",
+            "lei": "K4CDIF4M54DJZ6TB4Q48",
+            "cik": "0001061219"
+        },
+        {
+            "id": "com_agjvrg",
+            "ticker": "TWX",
+            "name": "Time Warner Inc",
+            "lei": "KNG3XRAA0RHN9H62OK76",
+            "cik": "0001105705"
+        },
+        {
+            "id": "com_kylwdz",
+            "ticker": "HPQ",
+            "name": "HP Inc",
+            "lei": "WHKXQACZ14C5XRO8LW03",
+            "cik": "0000047217"
+        },
+        {
+            "id": "com_wy3rDz",
+            "ticker": "MDT",
+            "name": "Medtronic PLC",
+            "lei": "549300GX3ZBSQWUXY261",
+            "cik": "0001613103"
+        },
+        {
+            "id": "com_jyRvly",
+            "ticker": "ABT",
+            "name": "Abbott Laboratories",
+            "lei": "HQD377W2YR662HK5JX27",
+            "cik": "0000001800"
+        },
+        {
+            "id": "com_0gN8qz",
+            "ticker": "EBAY",
+            "name": "eBay Inc",
+            "lei": "OML71K8X303XQONU6T67",
+            "cik": "0001065088"
+        },
+        {
+            "id": "com_5ydKJz",
+            "ticker": "CERN",
+            "name": "Cerner Corp",
+            "lei": "549300L4UJ40IEVVI304",
+            "cik": "0000804753"
+        },
+        {
+            "id": "com_ByKkvy",
+            "ticker": "CSX",
+            "name": "CSX Corp",
+            "lei": "549300JVQR4N1MMP3Q88",
+            "cik": "0000277948"
+        },
+        {
+            "id": "com_mgwWYg",
+            "ticker": "CMI",
+            "name": "Cummins Inc",
+            "lei": "ZUNI8PYC725B6H8JU438",
+            "cik": "0000026172"
+        },
+        {
+            "id": "com_Qz88bz",
+            "ticker": "EMC",
+            "name": "EMC Corp",
+            "lei": "KDMDXRWU7UTJ30FC8R59",
+            "cik": "0000790070"
+        },
+        {
+            "id": "com_bXZYPg",
+            "ticker": "FLR",
+            "name": "Fluor Corp",
+            "lei": "CQ7WZ4NOFWT7FAE6Q943",
+            "cik": "0001124198"
+        },
+        {
+            "id": "com_9Xal6g",
+            "ticker": "HSY",
+            "name": "Hershey Co",
+            "lei": "21X2CX66SU2BR6QTAD08",
+            "cik": "0000047111"
+        },
+        {
+            "id": "com_RzmqAz",
+            "ticker": "LVS",
+            "name": "Las Vegas Sands Corp",
+            "lei": null,
+            "cik": "0001300514"
+        },
+        {
+            "id": "com_2gB70X",
+            "ticker": "LB",
+            "name": "L Brands Inc",
+            "lei": "GR3KVMWVCR54YWQNXU90",
+            "cik": "0000701985"
+        },
+        {
+            "id": "com_NXnlVy",
+            "ticker": "PKG",
+            "name": "Packaging Corp of America",
+            "lei": "549300XZP8MFZFY8TJ84",
+            "cik": "0000075677"
+        },
+        {
+            "id": "com_Eg4Q6X",
+            "ticker": "PCP",
+            "name": "Precision Castparts Corp ",
+            "lei": "0XOOAY5P5J7Q734SEC89",
+            "cik": "0000079958"
+        },
+        {
+            "id": "com_2z95lz",
+            "ticker": "SYNA",
+            "name": "Synaptics Inc",
+            "lei": "549300AJ3LI4FWNRQX29",
+            "cik": "0000817720"
+        },
+        {
+            "id": "com_Dg25ey",
+            "ticker": "WHR",
+            "name": "Whirlpool Corp",
+            "lei": "WHENKOULSSK7WUM60H03",
+            "cik": "0000106640"
+        },
+        {
+            "id": "com_EgAa5g",
+            "ticker": "SPXC",
+            "name": "SPX Corp",
+            "lei": "P761FCI0CPOG24I8JE10",
+            "cik": "0000088205"
+        },
+        {
+            "id": "com_ogDk5y",
+            "ticker": "HCLP",
+            "name": "Hi Crush Partners LP",
+            "lei": null,
+            "cik": "0001549848"
+        },
+        {
+            "id": "com_5X7KNX",
+            "ticker": "CAT",
+            "name": "Caterpillar Inc",
+            "lei": "WRJR7GS4GTRECRRTVX92",
+            "cik": "0000018230"
+        },
+        {
+            "id": "com_qgeoNz",
+            "ticker": "DDpA",
+            "name": "E I du Pont de Nemours and Co",
+            "lei": "GLU7INWNWH88J9XBXD45",
+            "cik": "0000030554"
+        },
+        {
+            "id": "com_4zrJ6z",
+            "ticker": "CL",
+            "name": "Colgate-Palmolive Co",
+            "lei": "YMEGZFW4SBUSS5BQXF88",
+            "cik": "0000021665"
+        },
+        {
+            "id": "com_0ybW7g",
+            "ticker": "BKNG",
+            "name": "Booking Holdings Inc",
+            "lei": "FXM8FAOHMYDIPD38UZ17",
+            "cik": "0001075531"
+        },
+        {
+            "id": "com_Wy1EPy",
+            "ticker": "WBA",
+            "name": "Walgreens Boots Alliance Inc",
+            "lei": "549300RPTUOIXG4LIH86",
+            "cik": "0001618921"
+        },
+        {
+            "id": "com_xgQ89y",
+            "ticker": "LMT",
+            "name": "Lockheed Martin Corp",
+            "lei": "DPRBOZP0K5RM2YE8UU08",
+            "cik": "0000936468"
+        },
+        {
+            "id": "com_rg03my",
+            "ticker": "MDLZ",
+            "name": "Mondelez International Inc",
+            "lei": "549300DV9GIB88LZ5P30",
+            "cik": "0001103982"
+        },
+        {
+            "id": "com_Kz59Nz",
+            "ticker": "MON",
+            "name": "Monsanto Co",
+            "lei": "NONUZEX43GHIPSVDD938",
+            "cik": "0001110783"
+        },
+        {
+            "id": "com_pgVB6g",
+            "ticker": "COST",
+            "name": "Costco Wholesale Corp",
+            "lei": "29DX7H14B9S6O3FD6V18",
+            "cik": "0000909832"
+        },
+        {
+            "id": "com_NX6QGg",
+            "ticker": "SBUX",
+            "name": "Starbucks Corp",
+            "lei": "OQSJ1DU9TAOC51A47K68",
+            "cik": "0000829224"
+        },
+        {
+            "id": "com_2zvNNz",
+            "ticker": "DUK",
+            "name": "Duke Energy Corp",
+            "lei": "I1BZKREC126H0VB1BL91",
+            "cik": "0001326160"
+        },
+        {
+            "id": "com_0XLRDy",
+            "ticker": "DOW",
+            "name": "Dow Inc.",
+            "lei": "ZQUIP1CSZO8LXRBSOU78",
+            "cik": "0000029915"
+        },
+        {
+            "id": "com_VXWMJy",
+            "ticker": "AGN",
+            "name": "Allergan plc",
+            "lei": "6T6CAG8O6TSUTMO6BA21",
+            "cik": "0001578845"
+        },
+        {
+            "id": "com_NgYoGz",
+            "ticker": "ESRX",
+            "name": "Express Scripts Holding Co",
+            "lei": "5493003UA6VMND084504",
+            "cik": "0001532063"
+        },
+        {
+            "id": "com_NgPVvz",
+            "ticker": "LOW",
+            "name": "Lowe's Companies Inc",
+            "lei": "WAFCR4OKGSC504WU3E95",
+            "cik": "0000060667"
+        },
+        {
+            "id": "com_qzEMBz",
+            "ticker": "F",
+            "name": "Ford Motor Co",
+            "lei": "20S05OYHG0MQM4VUIC57",
+            "cik": "0000037996"
+        },
+        {
+            "id": "com_dXOeKy",
+            "ticker": "TXN",
+            "name": "Texas Instruments Inc",
+            "lei": "WDJNR2L6D8RWOEB8T652",
+            "cik": "0000097476"
+        },
+        {
+            "id": "com_Dzomng",
+            "ticker": "EOG",
+            "name": "EOG Resources Inc",
+            "lei": "XWTZDRYZPBUHIQBKDB46",
+            "cik": "0000821189"
+        },
+        {
+            "id": "com_nzJBNz",
+            "ticker": "GM",
+            "name": "General Motors Co",
+            "lei": "54930070NSV60J38I987",
+            "cik": "0001467858"
+        },
+        {
+            "id": "com_bzqapz",
+            "ticker": "FDX",
+            "name": "FedEx Corp",
+            "lei": "549300E707U7WNPZN687",
+            "cik": "0001048911"
+        },
+        {
+            "id": "com_pgVB2g",
+            "ticker": "TMO",
+            "name": "Thermo Fisher Scientific Inc",
+            "lei": "HCHV7422L5HDJZCRFL38",
+            "cik": "0000097745"
+        },
+        {
+            "id": "com_NX6Qag",
+            "ticker": "HAL",
+            "name": "Halliburton Co",
+            "lei": "ENYF8GB5SMQZ25S06U51",
+            "cik": "0000045012"
+        },
+        {
+            "id": "com_2zvNvz",
+            "ticker": "V",
+            "name": "Visa Inc",
+            "lei": "549300JZ4OKEHW3DPJ59",
+            "cik": "0001403161"
+        },
+        {
+            "id": "com_0XLRdy",
+            "ticker": "APC",
+            "name": "Anadarko Petroleum Corp",
+            "lei": "B78FQ7XBQFLP4AYJ6F79",
+            "cik": "0000773910"
+        }
+    ],
+    "next_page": "MTAz"
+}

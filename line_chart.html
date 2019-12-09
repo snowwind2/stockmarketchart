@@ -1,0 +1,93 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="description" content="Financial Dashboard">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Style -->
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <title>Financial Dashboard</title>
+</head>
+
+<body>
+<div class='header'>
+    <h1>Profile</h1>
+    <div><input type="text" id="inputStock" placeholder="Search by ticker" list="datalist"
+            onkeyup="autoComplete(this.value)" />
+        <datalist id="datalist"></div>
+    <div><button id="searchSubmit" class='btn--hidden'>Submit</button></div>
+</div>
+
+    <div class="grid-wrapper">
+        <div class="head-wrapper">
+            <div id="ticker" class='stock--name'></div>
+            <div id="name" class='stock--name'></div>
+            <div id="price" class='stock--price'></div>
+            <div id="currency" class='currency'>USD</div>
+            <div class="change-wrapper">
+                <div id="priceChange" class='stock--change'></div>
+                <div id="date" class='last-date'></div>
+            </div>
+            <div id="arrow" class='arrow'></div>
+        </div>
+        <div class='btn-wrapper'>
+            <button id="barChart" class="barChart"></button>
+            <button id="lineChart" class="lineChart"></button>
+        </div>
+
+        <div class="container-3">
+            <div class="card chart-wrapper">
+                <div class="card-body">
+                    <div id="title1"></div>
+                    <div id="chart1"></div>
+                </div>
+            </div>
+            <div class="card chart-wrapper">
+                <div class="card-body">
+                    <div id="title2"></div>
+                    <div id="chart2"></div>
+                </div>    
+            </div>
+            <div class="card chart-wrapper">
+                <div class="card-body">
+                    <div id="title3"></div>
+                    <div id="chart3"></div>
+                    
+                </div>
+            </div>    
+        </div>
+        <div class="container-2">
+            <div class="card chart-wrapper">
+                <div class="card-body">
+                    <div id="title4"></div>
+                    <div id="chart4"></div>
+                </div>    
+            </div>
+            <div class="card chart-wrapper">
+                <div class="card-body">
+                    <div id="title5"></div>
+                    <div id="chart5"></div>
+                </div>    
+            </div>
+        </div>
+    </div>
+
+    <!-- Libraries -->
+    <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script src="js/d3.min.js"></script>
+    <!-- Custom JS -->
+    <script src="js/line_chart.js"></script>
+    <script src="js/line_chart_autocomplete.js"></script>
+    <script src="js/autorefresh.js"></script>
+    
+
+</body>
+
+</html>

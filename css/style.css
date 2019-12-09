@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web&display=swap');
+
+*,
+*::after,
+*::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Avenir', 'Titillium Web', sans-serif;
+}
+
+
+
+html{
+    font-size: 62.5%; /* 10px */
+}
+
+body{
+    font-size: 1.6rem;
+}
+.header{
+    margin: 1rem auto;
+    text-align: center;
+}
+.btn--hidden{
+    visibility: hidden;
+}
+input{
+    margin: 1rem;
+    height: 4rem;
+    width: 50rem;
+    padding: 0 0 0 3rem;
+    background-size: 2rem;
+    border:0;
+    background-repeat:no-repeat;
+    background-position: 47rem 1.2rem;
+    background-image: url('img/search.png');
+    box-shadow: 0px 2px 3px #ccc;
+
+}
+.barChart{
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-image: url('img/barchart.png');
+}
+.lineChart{
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-image: url('img/linechart.png');
+}
+.redArrow{
+    background-size: 2rem;
+    background-repeat:no-repeat;
+    background-image: url('img/red.png');
+}
+.greenArrow{
+    background-size: 2rem;
+    background-image: url('img/green.png');
+}
+.red{
+    color: red;
+}
+.green{
+    color: green;
+}
+.stock{
+    height: 10rem;
+    line-height: 15rem;
+    padding: 0 0 0 10rem;
+
+}
+
+.container-3{
+    margin-top: 1rem;
+    display: flex; 
+    justify-content: center;
+}
+.chart-wrapper{
+    margin: 3rem;
+}
+.container-2{
+    margin-top: 2rem;
+    display: flex; 
+    justify-content: center;
+}
+
+.head-wrapper{
+    display: flex;
+    margin-left: 38%;
+    align-items: baseline;
+    text-align: center;
+}
+.head-wrapper div{
+    margin: 0 0 0 1rem;
+}
+.change-wrapper{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr;
+}
+.btn-wrapper{
+    position: absolute;
+    right: 10rem;
+}
+.btn-wrapper button{
+    height: 3rem;
+    width: 5rem;
+}
+.stock--name{
+    font-size: 2.2rem;
+    font-weight: 700;
+}
+.stock--price{
+    font-size: 2.2rem;
+    font-weight: 700;
+}
+.stock--change{
+    font-size: 1.7rem;
+}
+
+.nav div{
+    display: inline-block;
+    color: white;
+    font-size: 2.1rem;
+    margin: .5rem;
+}
+.ui-autocomplete {
+    max-height: 600px;
+    overflow-y: auto;   /* prevent horizontal scrollbar */
+    overflow-x: hidden; /* add padding to account for vertical scrollbar */
+    z-index:1000 !important;
+}
+#title1, #title2, #title3, #title4, #title5 {
+    font-size: 15px;
+}
